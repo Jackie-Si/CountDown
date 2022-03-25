@@ -2,7 +2,7 @@
   "name": "countdown",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Jackie-Si.github.io/countdown",
+  "homepage": "http://Jackie-Si.github.io/simple_countdown",
   "dependencies": {
     "@mui/styles": "^5.5.1",
     "@testing-library/jest-dom": "^5.16.3",
