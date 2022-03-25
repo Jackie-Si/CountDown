@@ -1,0 +1,75 @@
+@import url(https://fonts.googleapis.com/css2?family=Nunito+Sans&display=swap);
+.App {
+  text-align: center;
+  background-image: linear-gradient(to right top, #eec369, #ffaa75, #ff9491, #fb89b3, #d68ad1);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  height: 100vh;
+}
+
+.App-header {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 64px;
+  color: white;
+}
+
+.font-face-rk {
+  font-family: "Nunito Sans", sans-serif;
+  letter-spacing: 0.1em;
+  font-size: 64px;
+}
+.countdown {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+  padding: 25px;
+}
+.countdown-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0 10px;
+}
+.countdown-item-value {
+  font-size: 3rem;
+  font-weight: bold;
+  color: #fff;
+}
+.countdown-item-label {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #fff;
+}
+span {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #fff;
+  padding: 0 10px;
+}
+@media screen and (max-width: 768px) {
+  .countdown {
+    margin-top: 20px;
+  }
+  .countdown-item {
+    margin: 0 5px;
+  }
+  .countdown-item-value {
+    font-size: 1.5rem;
+  }
+  .countdown-item-label {
+    font-size: 0.75rem;
+  }
+  span {
+    font-size: 1.5rem;
+    letter-spacing: 1px;
+  }
+}
