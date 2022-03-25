@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/countdown/static/css/main.de2714c9.css",
-    "main.js": "/countdown/static/js/main.36cdfa73.js",
-    "index.html": "/countdown/index.html",
-    "main.de2714c9.css.map": "/countdown/static/css/main.de2714c9.css.map",
-    "main.36cdfa73.js.map": "/countdown/static/js/main.36cdfa73.js.map"
+    "main.css": "/simple_countdown/static/css/main.de2714c9.css",
+    "main.js": "/simple_countdown/static/js/main.36cdfa73.js",
+    "index.html": "/simple_countdown/index.html",
+    "main.de2714c9.css.map": "/simple_countdown/static/css/main.de2714c9.css.map",
+    "main.36cdfa73.js.map": "/simple_countdown/static/js/main.36cdfa73.js.map"
   },
   "entrypoints": [
     "static/css/main.de2714c9.css",
